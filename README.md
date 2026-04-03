@@ -30,5 +30,4 @@ outputs/
 Install requirements and run notebook.
 
 ## 👨‍💻 Author
-Your Name# Energy-forecasting-mll
-This is my first git repository 
+Syed Imran Siddique Ali 
